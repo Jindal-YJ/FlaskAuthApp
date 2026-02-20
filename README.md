@@ -1,2 +1,0 @@
-# FlaskAuthApp
-Full Stack Assignment
